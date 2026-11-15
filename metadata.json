@@ -1,0 +1,8 @@
+{
+  "name": "Remix JARVIS AI",
+  "description": "Futuristic holographic personal AI assistant powered by Gemini API with voice control, smart productivity tools, and multimodal analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
